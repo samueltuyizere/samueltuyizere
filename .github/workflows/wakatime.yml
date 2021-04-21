@@ -1,17 +1,9 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: true
-        default: 'warning'
-      tags:
-        description: 'Test scenario tags'
-  # schedule:
-  #   # Runs at 12am UTC
-  #   - cron: "0 0 * * *"
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
