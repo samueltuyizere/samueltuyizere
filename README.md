@@ -4,7 +4,14 @@ ___
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samueltuyizere&show_icons=true&theme=dark&hide_title=true)](https://github.com/samueltuyizere)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltuyizere&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/samueltuyizere)|![samueltuyizere](https://github-readme-streak-stats.herokuapp.com/?user=samueltuyizere&theme=dark)
+|[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samueltuyizere&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/samueltuyizere)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltuyizere&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/samueltuyizere)|![samueltuyizere](https://github-readme-streak-stats.herokuapp.com/?user=samueltuyizere&theme=dark)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueltuyizere&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltuyizere&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/samueltuyizere)  
+
 
 ### Connect with me:
 
