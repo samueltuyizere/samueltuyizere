@@ -6,6 +6,9 @@ ___
 |-|-|-|
 |[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samueltuyizere&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/samueltuyizere)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltuyizere&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/samueltuyizere)|![samueltuyizere](https://github-readme-streak-stats.herokuapp.com/?user=samueltuyizere&theme=dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Profile views](https://gpvc.arturio.dev/samueltuyizere)  
 
 
