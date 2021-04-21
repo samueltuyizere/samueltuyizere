@@ -6,7 +6,7 @@ ___
 |-|-|-|
 |[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samueltuyizere&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/samueltuyizere)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltuyizere&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/samueltuyizere)|![samueltuyizere](https://github-readme-streak-stats.herokuapp.com/?user=samueltuyizere&theme=dark)
 
-### My last week work's coding time in brief
+### My last week's coding time in brief
 <!--START_SECTION:waka-->
 ```text
 Week: 13 April, 2021 - 20 April, 2021
