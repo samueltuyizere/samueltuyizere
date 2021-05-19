@@ -9,13 +9,13 @@ ___
 ### My last week's coding time in brief
 <!--START_SECTION:waka-->
 ```text
-Week: 10 May, 2021 - 17 May, 2021
+Week: 11 May, 2021 - 18 May, 2021
 
-TypeScript   17 hrs 40 mins  █████████████████████▒░░░   85.46 % 
-Other        1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-JSON         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript   13 hrs 28 mins  ████████████████████▓░░░░   82.73 % 
+Other        1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+JSON         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Bash         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-->
 
