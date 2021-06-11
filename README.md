@@ -9,10 +9,10 @@ ___
 ### My last week's coding time in brief
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2021 - 09 June, 2021
+Week: 03 June, 2021 - 10 June, 2021
 
-TypeScript   8 hrs 10 mins   ████████████████████████▓   98.52 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript   9 hrs 13 mins   █████████████████████████   99.60 % 
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
 
