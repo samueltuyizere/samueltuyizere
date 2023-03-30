@@ -7,14 +7,8 @@ ___
 |[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samueltuyizere&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/samueltuyizere)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltuyizere&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/samueltuyizere)|![samueltuyizere](https://github-readme-streak-stats.herokuapp.com/?user=samueltuyizere&theme=dark)
 
 ### My last week's coding time in brief
-<!--START_SECTION:waka-->
-```text
-Week: 15 July, 2021 - 21 July, 2021
 
-TypeScript   36 mins         ██████████████░░░░░░░░░░░   55.79 % 
-JSON         28 mins         ███████████░░░░░░░░░░░░░░   43.68 % 
-```
-<!--END_SECTION:waka-->
+[![Leandre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samueltuyizere&layout=compact&theme=dark)](https://github.com/samueltuyizere)
 
 ![Profile views](https://gpvc.arturio.dev/samueltuyizere)  
 
