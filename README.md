@@ -6,10 +6,10 @@ ___
 |-|-|-|
 |[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samueltuyizere&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/samueltuyizere)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueltuyizere&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/samueltuyizere)|![samueltuyizere](https://github-readme-streak-stats.herokuapp.com/?user=samueltuyizere&theme=dark)
 
-### My last week's coding time in brief
+<!-- ### My last week's coding time in brief
 
-[![Leandre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samueltuyizere&layout=compact&theme=dark)](https://github.com/samueltuyizere)
-
+[![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samueltuyizere&layout=compact&theme=dark)](https://github.com/samueltuyizere)
+ -->
 ![Profile views](https://gpvc.arturio.dev/samueltuyizere)  
 
 
