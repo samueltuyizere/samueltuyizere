@@ -12,6 +12,11 @@ ___
 
 ![Profile views](https://gpvc.arturio.dev/samueltuyizere)  
 
+<h3 align="left">Languages and Tools:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueltuyizere&show_icons=true&locale=en&layout=compact" alt="sam" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samueltuyizere&show_icons=true&locale=en" alt="sam" /></p>
+
 
 ### Connect with me:
 
