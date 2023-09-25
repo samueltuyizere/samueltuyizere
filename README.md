@@ -12,12 +12,6 @@ ___
 
 ![Profile views](https://gpvc.arturio.dev/samueltuyizere)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueltuyizere&show_icons=true&locale=en&layout=compact" alt="sam" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samueltuyizere&show_icons=true&locale=en" alt="sam" /></p>
-
-
 ### Connect with me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/samueltuyizere) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/samueltuyizere) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](samueltuyizere0@gmail.com)
