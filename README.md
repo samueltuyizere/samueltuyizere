@@ -1,4 +1,4 @@
-### Hi there, Welcome to my Profile 👋
+### Support my work by buying me a beer [here](https://buymeacoffee.com/teezay)
 
 ___
 
