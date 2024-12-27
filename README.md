@@ -1,7 +1,3 @@
-### Support my work by buying me a beer [here](https://buymeacoffee.com/teezay)
-
-___
-
 |My Profile|Streaks|
 |-|-|
 |![Metrics](/github-metrics.svg)|![samueltuyizere](https://github-readme-streak-stats.herokuapp.com/?user=samueltuyizere&theme=dark)
